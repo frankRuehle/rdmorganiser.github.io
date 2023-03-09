@@ -204,13 +204,6 @@ Informationen rund um die Entwicklung der Software finden Sie auf der Seite [Dok
 			</ol>
 		</td>
 	</tr>
-	<tr style="border-bottom: 1pt solid darkgrey;">
-		<th style="width: 10%;">Februar 2022</th>
-		<td style="width: 90%; padding-left:10px;">Auf Vorschlag der Software-Gruppe hat das Steuerungsgremium eine Restrukturierung der RDMO Git-Repositorien und der Personen bzw. Gruppen vorgenommen, die die Bearbeitung der Repositorien regeln. Dabei wurden vor allem die neuen Strukturen der RDMO-Arbeitsgemeinschaft reflektiert.
-		<br/>
-		In der NFDI hat sich eine Task Force „DMPs in der NFDI“ innerhalb der NFDI Tools Gruppe formiert. Mitglieder der NFDI-beteiligten Konsortien (/Institute)  können sich über die folgende URL für die Mailing-Liste anmelden: https://lists.nfdi.de/postorius/lists/dmpsindernfdi.lists.nfdi.de
-		</td>
-	</tr>
 	<tr>
 		<th style="width: 10%;"/>
 		<td style="width: 90%; padding-left:10px;">Vorherige Ereignisse finden Sie auf der Seite <a href="./Vergangenes.md">Vergangene Veranstaltungen</a>.</td>

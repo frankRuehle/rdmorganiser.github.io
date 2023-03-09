@@ -91,13 +91,13 @@ Für die Verbindungsinformation zu den Workshops und regulären Terminen bitte d
 		<td><a href="https://drive.google.com/drive/folders/1hHJa6_fzgZ7lPewgRzhS50jhKM0Bi0Y9">Link</a></td>
 		<td><a href="mailto:schoenau@ub.rwth-aachen.de">Sabine Schönau</a></td>
 	</tr>
-	<tr style="border-bottom-right-radius: 15px; color:grey;">
+	<tr style="border-bottom-right-radius: 15px;">
 		<td/>
 		<td style="font-weight: bold;">UAG DFG Checkliste</td>
 		<td>
 			<ul>
 				<li>Überführung der DFG Checkliste in einen generischen RDMO Katalog samt view</li>
-				<li>abgeschlossen, keine Teilnahme mehr möglich</li>
+				<li>offen, Teilnahme jederzeit möglich</li>
 			</ul>
 		</td>
 		<td>an jedem 2. Dienstag (15:00-16:00 Uhr)</td>

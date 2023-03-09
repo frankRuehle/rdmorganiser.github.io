@@ -103,7 +103,7 @@
   color:   gray
 
 - name:    Technische Universität Braunschweig
-  contact: Robert Strötgen
+  contact: [Robert Strötgen](forschungsdaten@tu-braunschweig.de)
   url:     https://rdmo.biblio.etc.tu-bs.de
   lat:     52.2735074
   lon:     10.5296839
